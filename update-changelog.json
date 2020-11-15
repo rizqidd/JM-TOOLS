@@ -1,10 +1,28 @@
 {
   "latestVersion": "0.12.0",
   "latestVersionCode": "12",
-  "url": "https://github.com/rizqidd/JM-TOOLS/releases",
+  "url": "https://raw.githubusercontent.com/rizqidd/JM-TOOLS/main/releases/JMTOOLS.apk",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
+    "1. GFX MANUAL FIX - FILE SELECTOR ",
+    "2. OVERCLOCK CPU GPU FIX",
+    "3. SMART CONFIG WITH AI (UPDATED)",
+    "4. AUDIO ULTRA HD (ON PROGRESS)",
+    "5. ACTIVE.SAV (ON PROGRESS) ",
+    "-  NEW ROG 3",
+    "6. RAWDATA (ON PROGRESS)",
+    "-  NEW ROG 3",
+    "7. CONFIG UPDATE PUBGM 1.1 (ON PROGRESS)",
+    "8. PUBGM VERSION (UPDATED)",
+    "9. SUPPORT VERSION ANDROID 5.1 - ANDROID 11",
+    "10. MENU UPDATED",
+    "11. ADDED NEW REFLECTION IN GFX CUSTOM",
+    "12. AUTO UPDATE MODELU FIX (NEW)",
+      "- AUTO UPDATE FROM PLAYSTORE",
+      "- AUTO UPDATE APK FROM GITHUB",
+      "- AUTO UPDATE APK FROM LINK",
+    "13. AUTO CONFIG BY CHIPSET (UPDATED) - NEW SD 732G",
+    "14. NEW ADS (FIX)",
+    "15. REMOVE ADS IN STARTUP PUBGM BOOST (SHORTCUT)",
+    "16. NEW FRAME RATE SCREEN INFORMATION (IN DEVICE INFORMATION)"
   ]
 }
