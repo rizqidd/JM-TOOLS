@@ -1,27 +1,11 @@
 {
-  "latestVersion": "0.12.5",
+  "latestVersion": "0.12.5.1",
   "latestVersionCode": "12",
-  "url": "https://raw.githubusercontent.com/rizqidd/JM-TOOLS/main/release/JM%20TOOLS%20-%20V%200.12.5.apk",
+  "url": "https://raw.githubusercontent.com/rizqidd/JM-TOOLS/main/release/JM%20TOOLS%20-%20V%200.12.5.1.apk",
   "releaseNotes": [
-    "What New In JM TOOLS V 0.12.5 ?",
-    "1. Added Extreme Perform in GFX Custom - GFX Instant - GFX Manual",
-      "- Unlock 90 FPS",
-      "- Unlock Ultra HDR",
-      "- Unlock iPad View",
-      "- Unlock Smooth Frame Rate",
-      "- Unlock Ping Booster",
-      "- Unlock No Texture (All Device)",
-      "- Unlock Turbo Performance (Vulkan)",
-    "2. Added New Banner For Sale Marchendhise",
-    "3. Added New Featur TOP UP Games in App",
-    "4. New Design UI (For Other GFX)",
-    "5. Added Donation detector UI",
-    "6. Added New Logic Applaying Config If Using Feature",
-      "- Memory Boost",
-      "- Add GameUserSettings.ini",
-      "- Script For Batter Perform",
-      "- Exreme Perform",
-     "You wil be redirect in Game before click Apply",
-    "7. Added Delete Log (Game PUBGM) in Game Settings"
+    "FIX UPDATE JM TOOLS V 0.12.5.1 ?",
+    "1. FIX Change Resolution",
+    "2. FIX Auto Open Game In Extra Resource",
+    "3. FIX Foreclose Please Uninstall This APP First"
   ]
 }
