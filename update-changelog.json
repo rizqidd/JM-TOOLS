@@ -1,11 +1,12 @@
 {
-  "latestVersion": "0.12.5.1",
-  "latestVersionCode": "12",
-  "url": "https://raw.githubusercontent.com/rizqidd/JM-TOOLS/main/release/JM%20TOOLS%20-%20V%200.12.5.1.apk",
+  "latestVersion": "1.1.0",
+  "latestVersionCode": "1",
+  "url": "https://raw.githubusercontent.com/rizqidd/JM-TOOLS/main/release/JM%20TOOLS%20-%20V%201.1.0.apk",
   "releaseNotes": [
-    "FIX UPDATE JM TOOLS V 0.12.5.1 ?",
-    "1. FIX Change Resolution",
-    "2. FIX Auto Open Game In Extra Resource",
-    "3. FIX Foreclose Please Uninstall This APP First"
+    "FIX UPDATE JM TOOLS V 1.1.0 ?",
+	"1. PUBG MOBILE - Traverse (1.4)",
+    "2. Support Android 5 to Android 11",
+    "3. Add New Config For MaterialQualitySuperHigh",
+    "4. All Active.sav, Rawdata and Audio UltraHD Updated"
   ]
 }
