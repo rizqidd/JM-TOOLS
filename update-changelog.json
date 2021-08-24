@@ -1,20 +1,17 @@
 {
-  "latestVersion": "1.2.0",
-  "latestVersionCode": "2",
-  "url": "https://raw.githubusercontent.com/rizqidd/JM-TOOLS/main/release/JM%20TOOLS%20-%20V%201.2.0.apk",
+  "latestVersion": "1.3.0",
+  "latestVersionCode": "3",
+  "url": "https://raw.githubusercontent.com/rizqidd/JM-TOOLS/main/release/JM%20TOOLS%20-%20V%201.3.0.apk",
   "releaseNotes": [
-    "FIX UPDATE JM TOOLS V 1.2.0 ?",
-	"1. PUBG MOBILE - IGNITION (1.5)",
-   "1. Added Game Battleground Mobile India (BGMI)",
-	"2. Added New Feature Unlock 90 FPS",
-	"3. Added New Feature IPad View ",
-	"4. Auto Update Checker In GFX ML, GI and CODM",
-	"5. Auto Booster For GFX ML, CODM, and GI",
-	"6. New UI Topup Game",
-	"7. Dynamic Reset Data JM TOOLS",
-	"8. Add New Chipset Exynose 850",
-	"9. Add New Frame Rate 90 FPS Unclocker for all Device",
-	"10. Add New IPad View Unlocker for all Device",
-	"11. Add New Bullet Show"
+    "FIX UPDATE JM TOOLS V 1.3.0 ?",
+	"1. Menambahkan Game Battleground Mobile India",
+	"2. Penambahan Fitur Baru Buka Kunci 90 FPS",
+	"3. Menambahkan Fitur Baru Tampilan iPad",
+	"4. Penambahan Fitur Bayangan Peluru Baru di TDM",
+	"5. Penambahan Fitur Baru Grafis Super Halus",
+	"6. Pemeriksa Pembaruan Otomatis Di GFX ML, GI, dan CODM",
+	"7. Penguat Otomatis Untuk GFX ML, CODM, dan GI",
+	"8. Game Topup UI Baru",
+	"9. Tambah Chipset Baru Exynose 850"",
   ]
 }
