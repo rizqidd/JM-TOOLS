@@ -1,17 +1,17 @@
 {
-  "latestVersion": "1.3.0",
-  "latestVersionCode": "3",
-  "url": "https://raw.githubusercontent.com/rizqidd/JM-TOOLS/main/release/JM%20TOOLS%20-%20V%201.3.0.apk",
+  "latestVersion": "1.5.0",
+  "latestVersionCode": "6",
+  "url": "https://raw.githubusercontent.com/rizqidd/JM-TOOLS/main/release/JM%20TOOLS%20-%20V%201.5.0.apk",
   "releaseNotes": [
-    "FIX UPDATE JM TOOLS V 1.3.0 ?",
-	"1. Menambahkan Game Battleground Mobile India",
-	"2. Penambahan Fitur Baru Buka Kunci 90 FPS",
-	"3. Menambahkan Fitur Baru Tampilan iPad",
-	"4. Penambahan Fitur Bayangan Peluru Baru di TDM",
-	"5. Penambahan Fitur Baru Grafis Super Halus",
-	"6. Pemeriksa Pembaruan Otomatis Di GFX ML, GI, dan CODM",
-	"7. Penguat Otomatis Untuk GFX ML, CODM, dan GI",
-	"8. Game Topup UI Baru",
-	"9. Tambah Chipset Baru Exynose 850"",
+    "FIX UPDATE JM TOOLS V 1.5.0 ?",
+	"1. PUBG MOBILE - ARCANE (1.7)",
+	   "- Global, BGMI, Korea, Vietnam, Taiwan, Beta, China",
+	"3. All Config Updated",
+	"4. All Rawdata Updated",
+	"5. All Active.sav Updated",
+	"6. All Audio Ultra HD",
+	"7. Change Resolution",
+	"8. Change Grafis",
+	"9. Change Anti Aliasing"
   ]
 }
